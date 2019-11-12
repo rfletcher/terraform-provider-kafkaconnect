@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/b-social/terraform-provider-kafkaconnect/kafkaconnect"
 	"github.com/hashicorp/terraform/plugin"
 	"github.com/hashicorp/terraform/terraform"
+	"github.com/rfletcher/terraform-provider-kafkaconnect/kafkaconnect"
 )
 
 func main() {
